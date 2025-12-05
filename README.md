@@ -1,18 +1,15 @@
 ## Hi, I'm Nupur 👋
 ### Business Analyst | Data StoryTeller | Requirement Specialist
 
-<!--
-**NupurChaurasiya/NupurChaurasiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a detail-oriented Business Analyst passionate about transforming business challenges into scalable, data-driven solutions.  
+My strength lies in understanding business needs, writing clear and structured requirements, and creating meaningful insights using Excel, Power BI, and SQL.
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+🔍 Skilled in Requirement Gathering, Gap Analysis & Process Mapping  
+📊 Strong analytical abilities using Excel, Power BI & SQL  
+🔄 Love simplifying complex problems into actionable insights  
+ 🌱 Currently learning: Advanced Power BI, Data Modeling & Python basics  
 
-- ## 🔭 Data Tools - Excel, Power BI, SQL
-- 🔭 I’m currently working on ...
-- ## 🌱 I’m currently learning Jira, Confluence, Agile
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ## 📫 How to reach me: nupurchaurasiya02@gmail.com
-- ## 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
--->
+
+  🌐 Connect With Me  
+- 📧 Email: nupurchaurasiya02@gmail.com
