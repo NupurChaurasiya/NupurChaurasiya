@@ -6,13 +6,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Data Tools - Excel, Power BI, SQL
+- ## 🔭 Data Tools - Excel, Power BI, SQL
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Jira, Confluence, Agile
+- ## 🌱 I’m currently learning Jira, Confluence, Agile
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: nupurchaurasiya02@gmail.com
-- 😄 Pronouns: She/Her
+- ## 📫 How to reach me: nupurchaurasiya02@gmail.com
+- ## 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 -->
