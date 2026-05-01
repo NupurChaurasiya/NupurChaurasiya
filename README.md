@@ -1,4 +1,4 @@
-## Hi, I'm Nupur 👋
+## Hi, I'm Nupur Chaurasiya 👋
 ### Business Analyst | Data StoryTeller | Requirement Specialist
 
 I’m a detail-oriented Business Analyst passionate about transforming business challenges into scalable, data-driven solutions.  
